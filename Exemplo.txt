@@ -1,0 +1,11 @@
+1. Linguagens de Programação Utilizados no Mercado de Trabalho.
+    JavaScript
+    Java
+    Python
+    C#
+
+2. Ferramentas Utilizadas
+    Vscode
+    Frameworks
+    IDE
+
